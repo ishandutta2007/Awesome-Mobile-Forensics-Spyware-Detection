@@ -154,3 +154,4 @@ Thank you for visiting and using this curated mobile forensics resource! 🙏 If
 - This repository is a community-curated educational and technical resource—not a formal legal endorsement or warranty.
 - Digital forensics, traffic interception, and spyware detection tools must only be operated on hardware you own or have explicit, documented legal authorization to investigate. Unauthorized extraction or interception of mobile device telemetry violates global computer-crime, wiretapping, and privacy statutes.
 - Sophisticated zero-click mercenary spyware frequently runs entirely in volatile RAM and cleans forensic artifacts upon termination; a clean scan from MVT or any forensic utility reduces risk probability but does not constitute an absolute guarantee of non-compromise. Always maintain strict chain-of-custody hashes (SHA-256) when preserving evidentiary artifacts.
+
